@@ -2,9 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Link Design Resumeku
+https://www.figma.com/file/lS9mA8StikX5WQ7alerJND/React-Resume?node-id=0%3A1
 
-In the project directory, you can run:
+![ResumeKu](https://github.com/Sigit-Wasis/resumeku.png?raw=true)
 
 ### `yarn start`
 
