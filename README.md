@@ -22,3 +22,16 @@ npm install
 ```
 
 - Then please contribute according to the issue on my resume project
+
+- If you have made a contribution, please push the project
+```
+git add {file_contribution}
+```
+```
+git commit -m "example add: modul experiences"
+```
+```
+git push origin main
+```
+
+- Please make a pull request if you have done a push project, your contribution will be reviewed by the owner first if appropriate, it will be merged into the main project
