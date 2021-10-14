@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Link Design Resumeku
 https://www.figma.com/file/lS9mA8StikX5WQ7alerJND/React-Resume?node-id=0%3A1
 
-![ResumeKu](https://github.com/Sigit-Wasis/React-Resume/resumeku.png?raw=true)
+![ResumeKu](https://github.com/Sigit-Wasis/React-Resume/blob/main/resumeku.png)
 
 ### `yarn start`
 
