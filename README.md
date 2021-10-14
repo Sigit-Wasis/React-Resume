@@ -2,7 +2,7 @@
 
 This project is a project about creating a resume using React and this project is open source, and can be used for hacktoberfest events
 
-<i>Khusus untuk mengikuti Hacktoberfest, Silahkan mengikuti tutorial berikut: 
+<i>Especially for participating in Hacktoberfest, please follow the following tutorial:
     Petani Kode : https://www.petanikode.com/hacktoberfest/
 </i>
 
