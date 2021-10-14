@@ -2,6 +2,10 @@
 
 This project is a project about creating a resume using React and this project is open source, and can be used for hacktoberfest events
 
+<i>Khusus untuk mengikuti Hacktoberfest, Silahkan mengikuti tutorial berikut: 
+    Petani Kode : https://www.petanikode.com/hacktoberfest/
+</i>
+
 ## Link Design Resumeku
 https://www.figma.com/file/lS9mA8StikX5WQ7alerJND/React-Resume?node-id=0%3A1
 
